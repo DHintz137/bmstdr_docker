@@ -1,6 +1,12 @@
 # Base image https://hub.docker.com/u/rocker/
 FROM rocker/rstudio
 
+# Install system dependencies for GDAL
+RUN apt-get update && apt-get install -y \
+    libgdal-dev \
+    libproj-dev \
+    && rm -rf /var/lib/apt/lists/*
+
 ## Install extra R packages using requirements.R
 ## Specify requirements as R install commands e.g.
 ## 
