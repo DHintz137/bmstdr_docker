@@ -1,0 +1,24 @@
+# Data directory
+Data/
+
+# Compiled documents
+*.html
+*.pdf
+
+# Shell scripts
+run_docker.sh
+run_docker_win.sh
+
+# Non-R Project files
+*.Rproj
+README.md
+
+# Version Control
+.git/
+
+# Docker Configuration
+DockerConfig/
+
+# Analysis Directory
+Analysis/
+

@@ -1,0 +1,68 @@
+{
+  "R": {
+    "Version": "4.3.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {
+    "RColorBrewer": {
+      "Package": "RColorBrewer",
+      "Version": "1.1-2",
+      "Source": "Repository"
+    },
+    "akima": {
+      "Package": "akima",
+      "Version": "0.6-3.3",
+      "Source": "Repository"
+    },
+    "bmstdr": {
+      "Package": "bmstdr",
+      "Version": "0.1.4",
+      "Source": "Repository"
+    },
+    "broom": {
+      "Package": "broom",
+      "Version": "0.8.0",
+      "Source": "Repository"
+    },
+    "directlabels": {
+      "Package": "directlabels",
+      "Version": "2021.1.13",
+      "Source": "Repository"
+    },
+    "doBy": {
+      "Package": "doBy",
+      "Version": "4.6.13",
+      "Source": "Repository"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "3.3.6",
+      "Source": "Repository"
+    },
+    "ggsn": {
+      "Package": "ggsn",
+      "Version": "0.5.0",
+      "Source": "Repository"
+    },
+    "rgdal": {
+      "Package": "rgdal",
+      "Version": "1.5-30",
+      "Source": "Repository"
+    },
+    "tidyr": {
+      "Package": "tidyr",
+      "Version": "1.2.0",
+      "Source": "Repository"
+    },
+    "usmap": {
+      "Package": "usmap",
+      "Version": "0.6.0",
+      "Source": "Repository"
+    }
+  }
+}

@@ -1,2 +1,4 @@
+.Rproj.user
 .Rhistory
-env_vars/*
+.RData
+.Ruserdata
